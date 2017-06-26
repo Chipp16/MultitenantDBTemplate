@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[TestTable]
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [c1] VARCHAR(50) NULL, 
+    [c2] VARCHAR(50) NULL
+)
